@@ -1,0 +1,7 @@
+C:\Users\ngogic\Source\Repos\IncapsulaLogDownloader\IncapsulaLogDownloader\IncapsulaLogDownloader\bin\Debug\IncapsulaLogDownloader.exe.config
+C:\Users\ngogic\Source\Repos\IncapsulaLogDownloader\IncapsulaLogDownloader\IncapsulaLogDownloader\obj\Debug\IncapsulaLogDownloader.csprojResolveAssemblyReference.cache
+C:\Users\ngogic\Source\Repos\IncapsulaLogDownloader\IncapsulaLogDownloader\IncapsulaLogDownloader\bin\Debug\IncapsulaLogDownloader.exe
+C:\Users\ngogic\Source\Repos\IncapsulaLogDownloader\IncapsulaLogDownloader\IncapsulaLogDownloader\bin\Debug\IncapsulaLogDownloader.pdb
+C:\Users\ngogic\Source\Repos\IncapsulaLogDownloader\IncapsulaLogDownloader\IncapsulaLogDownloader\bin\Debug\Ionic.ZLib.dll
+C:\Users\ngogic\Source\Repos\IncapsulaLogDownloader\IncapsulaLogDownloader\IncapsulaLogDownloader\obj\Debug\IncapsulaLogDownloader.exe
+C:\Users\ngogic\Source\Repos\IncapsulaLogDownloader\IncapsulaLogDownloader\IncapsulaLogDownloader\obj\Debug\IncapsulaLogDownloader.pdb
